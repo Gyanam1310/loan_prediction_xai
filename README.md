@@ -131,7 +131,7 @@ loan-approval-xai/
 1. Clone the repository:
 ```
 git clone https://github.com/Gyanam1310/loan_prediction_xai.git
-cd loan-approval-xai
+cd loan_prediction_xai
 ```
 
 2. Install dependencies:

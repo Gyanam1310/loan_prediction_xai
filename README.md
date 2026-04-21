@@ -130,7 +130,7 @@ loan-approval-xai/
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/loan-approval-xai.git
+git clone https://github.com/Gyanam1310/loan-approval-xai.git
 cd loan-approval-xai
 ```
 
